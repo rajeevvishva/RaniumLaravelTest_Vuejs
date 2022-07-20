@@ -1,4 +1,4 @@
-# asteroidneo
+# agent-panel
 
 ## Project setup
 ```
