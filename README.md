@@ -1,4 +1,4 @@
-# agent-panel
+# RaniumLaravelTest_Vuejs
 
 ## Project setup
 ```
